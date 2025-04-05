@@ -8,7 +8,7 @@ body {
 
 /* Header */
 header {
-    background-color: #333;
+    background-color: #09c0e0;
     color: #fff;
     padding: 15px 0;
     text-align: center;
@@ -37,13 +37,13 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #555;
+    background-color: hsl(202, 95%, 49%);
     border-radius: 5px;
 }
 
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #05e8f0;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -58,13 +58,13 @@ section {
     margin: 20px;
     background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px #07b6e2e0;
 }
 
 /* Tiêu đề */
 h1 {
     font-size: 26px;
-    color: #333;
+    color: #04e0f0;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -82,13 +82,13 @@ form button {
 }
 
 form button {
-    background-color: #333;
+    background-color: #1194e0;
     color: white;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #555;
+    background-color: #17a6d1;
 }
 
 /* Bảng sản phẩm */
@@ -113,7 +113,7 @@ td {
 }
 
 table a {
-    color: #333;
+    color: #1896df;
     text-decoration: none;
 }
 
@@ -149,7 +149,7 @@ input[type="email"]:focus,
 input[type="password"]:focus,
 textarea:focus {
     outline: none;
-    border-color: #333;
+    border-color: #0f93e0;
 }
 
 /* Nút quay lại */

@@ -1,3 +1,4 @@
+
 <?php
 // contact.php
 ?>
@@ -143,7 +144,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Bản quyền thuộc Trần Biển</p>
+        <p>&copy; 2025 Bản quyền thuộc Van Phu</p>
     </footer>
 </body>
 </html>

@@ -114,7 +114,7 @@
         </div>
 
         <footer>
-            <p>&copy; 2025 Bản quyền thuộc Vawnn Phu</p>
+            <p>&copy; 2025 Bản quyền thuộc Van Phu</p>
         </footer>
     </body>
     </html>
